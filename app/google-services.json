@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "883035646444",
+    "firebase_url": "https://taptap-8a578-default-rtdb.firebaseio.com",
+    "project_id": "taptap-8a578",
+    "storage_bucket": "taptap-8a578.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883035646444:android:7d53a5fa7ba681f40038c9",
+        "android_client_info": {
+          "package_name": "com.amba.tap_tap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883035646444-ecl2a1qssdpe8l762ci4s0ovp95bqoo6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ-aaZMXcl0HJAZ1OlzNIVw542YShlDCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883035646444-ecl2a1qssdpe8l762ci4s0ovp95bqoo6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883035646444:android:84be357eaee2e0cf0038c9",
+        "android_client_info": {
+          "package_name": "com.tap_tap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883035646444-ecl2a1qssdpe8l762ci4s0ovp95bqoo6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ-aaZMXcl0HJAZ1OlzNIVw542YShlDCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883035646444-ecl2a1qssdpe8l762ci4s0ovp95bqoo6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

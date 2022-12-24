@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_naira"
+        android:icon="@drawable/ic_naira"
+        android:title="@string/title_naira" />
+    <item
+        android:id="@+id/navigation_discovery"
+        android:icon="@drawable/ic_discovery"
+        android:title="@string/title_discovery" />
+
+    <item
+        android:id="@+id/navigation_quickpay"
+        android:icon="@drawable/ic_quick_pay"
+        android:title="@string/title_quickpay" />
+
+    <item
+        android:id="@+id/navigation_chat"
+        android:icon="@drawable/ic_chat"
+        android:title="@string/title_chat" />
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/ic_profile"
+        android:title="@string/title_profile" />
+
+</menu>
